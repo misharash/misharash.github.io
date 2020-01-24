@@ -1,0 +1,26 @@
+remote_theme: ankitsultana/researcher@gem
+
+title: Mykhailo (Michael, Misha) Rashkovetskyi
+baseurl: ""
+
+markdown: kramdown
+ins_logo: "https://www.tau.ac.il/sites/default/files/TAU_Logo_2.png"
+
+tracking_id: #
+
+footer: yes
+footer_url: "https://github.com/ankitsultana/researcher"
+footer_text: "Based on researcher jekyll template"
+
+sass:
+    style: compressed
+
+nav:
+ - name: "About"
+   link: "/"
+ - name: "Research"
+   link: "research"
+ - name: "CV"
+   link: "CV_Rashkovetskyi.pdf"
+ - name: "Contact"
+   link: "contact"
