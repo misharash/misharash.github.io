@@ -26,7 +26,7 @@ layout: default
 
 **Publication**: Beskin, V. S., A. K. Galishnikova, E. M. Novoselov, A. A. Philippov, and **M. M. Rashkovetskyi**, 2017. [So how do radio pulsars slow-down?. Journal of Physics Conference Series 932, 012012](https://ui.adsabs.harvard.edu/abs/2017JPhCS.932a2012B).
 
-### Radiopulsar statistics
+### Orthogonal radiopulsars and their statistics
 
 (Prof. Vasily Beskin, Egor Novoselov, Alisa Galishnikova, Dr. Anton Biryukov)
 
