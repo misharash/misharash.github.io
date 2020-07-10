@@ -6,7 +6,7 @@ layout: default
 
 <img class="profile-picture" src="https://avatars0.githubusercontent.com/u/20524039?s=400&v=4">
 
-Hello! I am currently a third year student of B.Sc. Physics at [Tel Aviv University](https://english.tau.ac.il), expect to earn the degree in summer 2020 and then continue to M.Sc. or Ph.D.
+Hello! I am currently a third year student of B.Sc. Physics at [Tel Aviv University](https://english.tau.ac.il), earning the degree in August 2020. From September 2020 I am a PhD student at [Harvard-Smithsonian Center for Astrophysics](https://www.cfa.harvard.edu/). I was born in Odessa, graduated from [Richelieu Lyceum](http://rl.odessa.ua/index.php/uk/) and started college at [Moscow Insitute of Physics and Technology](https://mipt.ru/english/).
 
 ## Research Interests
 
