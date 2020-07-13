@@ -14,7 +14,11 @@ I was born in Odesa, Ukraine, graduated from Physics class of [Richelieu Lyceum]
 
 ## Research Interests
 
-I am highly interested in astrophysics. I have experience in compact object, plasma, high-energy and am acquainted with conducting and analyzing numerical simulations (see [Research](research) for more details). I am also excited about cosmology and analytical methods. Another field of my interest are principles of quantum theory.
+I am highly interested in astrophysics.
+
+I have experience in compact object, plasma, high-energy and am acquainted with conducting and analyzing numerical simulations (see [Research](research) for more details).
+
+I am excited about cosmology and analytical methods. Another field of my interest are principles of quantum theory.
 
 ## References
 
