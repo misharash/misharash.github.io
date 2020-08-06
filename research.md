@@ -8,11 +8,13 @@ layout: default
 
 (Dr. Omer Bromberg, Prof. Alexander Tchekhovkoy)
 
-**Goal**: study their propagation, instabilities, energy dissipation
+**Goal**: study their launching, propagation, instabilities, energy dissipation
 
 **Tools**: GRMHD simulations in H-AMR code (improved version of HARM)
 
 **My contribution**: implementing the rotating perfect conductor BC, matter injection, grid modifications, tilting the jet to avoid pole singularity issues
+
+**Open source**: [harmpi with the neutron star boundary condition](https://github.com/misharash/harmpi).
 
 ### Pulsar losses mechanisms
 
@@ -35,6 +37,8 @@ layout: default
 **My contribution**: sampling pulsar distribution functions with Monte-Carlo simulation, making predictions based on it
 
 **Publication**: Novoselov, E. M., V. S. Beskin, A. K. Galishnikova, **M. M. Rashkovetskyi**, and A. V. Biryukov, 2020. [Orthogonal pulsars as a key test for pulsar evolution. Monthly Notices of the Royal Astronomical Society 494, 3899-3911](https://ui.adsabs.harvard.edu/abs/2020MNRAS.494.3899N).
+
+**Open source**: [pulsar distribution sampling code](https://github.com/misharash/psr-distribution-test).
 
 ### Pulsar radiation propagation
 
