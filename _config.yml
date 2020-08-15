@@ -1,10 +1,15 @@
 remote_theme: ankitsultana/researcher@gem
 
 title: Michael Rashkovetskyi
+author: Michael Rashkovetskyi
+description: Michael Rashkovetskyi's personal site
 baseurl: ""
 
 markdown: kramdown
-ins_logo: "https://www.tau.ac.il/sites/default/files/TAU_Logo_2.png"
+ins_logo: ""
+
+favicon: true
+favicon_location: BTA.ico
 
 tracking_id: #
 
