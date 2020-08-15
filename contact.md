@@ -1,4 +1,5 @@
 ---
+title: Michael Rashkovetskyi's contacts
 layout: default
 is_contact: true
 ---
