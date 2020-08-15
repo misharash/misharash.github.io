@@ -2,6 +2,8 @@
 layout: default
 ---
 
+For a brief list of publications, see [my ORCID](https://orcid.org/0000-0001-7144-2349) or <a href='https://ui.adsabs.harvard.edu/search/q= author%3A"rashkovetskyi%2C m."'>search in ADS</a>.
+
 ## Research projects
 
 ### The dynamics of highly magnetized jets propagating in the medium
@@ -10,7 +12,7 @@ layout: default
 
 **Goal**: study their launching, propagation, instabilities, energy dissipation
 
-**Tools**: GRMHD simulations in H-AMR code (improved version of HARM)
+**Tools**: GRMHD simulations in H-AMR code (improved version of [HARM](http://rainman.astro.illinois.edu/codelib/) and [harmpi](https://github.com/atchekho/harmpi))
 
 **My contribution**: implementing the rotating perfect conductor BC, matter injection, grid modifications, tilting the jet to avoid pole singularity issues
 
