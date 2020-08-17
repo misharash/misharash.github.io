@@ -17,5 +17,5 @@ is_contact: true
 ## Links
 
 * [ORCID](https://orcid.org/0000-0001-7144-2349)
-* <a href='https://ui.adsabs.harvard.edu/search/q= author%3A"rashkovetskyi%2C m."'>ADS publications</a>
+* [ADS publications](https://ui.adsabs.harvard.edu/search/q=orcid%3A0000-0001-7144-2349&sort=date+desc)
 * [Github](https://github.com/misharash)
