@@ -7,11 +7,9 @@ layout: default
 
 <img class="profile-picture" src="https://avatars0.githubusercontent.com/u/20524039?s=400&v=4">
 
-I am currently a third year student of B.Sc. Physics at [Tel Aviv University](https://english.tau.ac.il), earning the degree in August 2020.
+I am currently a PhD student at [Astronomy department of Harvard University](https://astronomy.fas.harvard.edu).
 
-From September 2020 I am a PhD student at [Harvard-Smithsonian Center for Astrophysics](https://www.cfa.harvard.edu/).
-
-I was born in Odesa, Ukraine, graduated from Physics class of [Richelieu Lyceum](http://rl.odessa.ua/index.php/uk/) there in 2015 and started college at Department of General and Applied Physics of [Moscow Insitute of Physics and Technology](https://mipt.ru/english/).
+I was born in Odesa, Ukraine, graduated from Physics class of [Richelieu Lyceum](http://rl.odessa.ua/index.php/uk/) there in 2015 and started college at Department of General and Applied Physics of [Moscow Insitute of Physics and Technology](https://mipt.ru/english/). I continued my studies at [Tel Aviv University](https://english.tau.ac.il) and earned a B.Sc. degree in Physics degree in August 2020.
 
 I am also known as Mykhailo Rashkovetskyi (officially, Ukrainian) and Mikhail Mikhailovich Rashkovetskiy (Russian).
 

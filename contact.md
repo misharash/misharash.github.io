@@ -4,7 +4,7 @@ layout: default
 is_contact: true
 ---
 
-* Email: mykhailor [at] mail.tau.ac.il
+* Email: michael.rashkovetskyi [at] cfa.harvard.edu
 
 ---
 
