@@ -1,5 +1,5 @@
 ---
-title: Michael Rashkovetskyi's research
+title: Michael 'Misha' Rashkovetskyi's research
 layout: default
 ---
 

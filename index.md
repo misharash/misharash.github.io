@@ -1,5 +1,5 @@
 ---
-title: Michael Rashkovetskyi
+title: Michael 'Misha' Rashkovetskyi
 layout: default
 ---
 
