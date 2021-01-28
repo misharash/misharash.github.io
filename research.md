@@ -13,7 +13,7 @@ For a brief list of publications, see [my ORCID](https://orcid.org/0000-0001-714
 
 **Goal**: investigate the idea of [relieving the Hubble tension with primordial magnetic fields](https://arxiv.org/abs/2004.09487), generalize and make forecasts
 
-**Tools**: MCMC/nested sampling with [Cobaya](https://cobaya.readthedocs.io/en/latest/) using [CLASS](https://github.com/lesgourg/class_public)) Boltzmann code
+**Tools**: MCMC/nested sampling with [Cobaya](https://cobaya.readthedocs.io/en/latest/) using [CLASS](https://github.com/lesgourg/class_public) Boltzmann code
 
 **Open source**: [modified CLASS with clumping models](https://github.com/misharash/class_public).
 

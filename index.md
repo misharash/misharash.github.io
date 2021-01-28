@@ -17,9 +17,7 @@ I am also known as Mykhailo Rashkovetskyi (officially, Ukrainian) and Mikhail Mi
 
 I am highly interested in astrophysics.
 
-I have experience in compact objects, plasma, high-energy and am acquainted with conducting and analyzing numerical simulations (see [Research](research) for more details).
-
-I am excited about cosmology and analytical methods. Another field of my interest are principles of quantum theory.
+My current project is in cosmology data analysis. I also have experience in compact objects, plasma, high-energy and am acquainted with conducting and analyzing numerical simulations (see [Research](research) for more details). Another field of my interest are principles of quantum theory.
 
 ## References
 
