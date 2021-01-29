@@ -27,5 +27,7 @@ nav:
    link: "research"
  - name: "CV"
    link: "CV_Rashkovetskyi.pdf"
+ - name: "Bio"
+   link: "bio"
  - name: "Contact"
    link: "contact"
