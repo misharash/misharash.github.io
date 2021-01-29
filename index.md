@@ -7,19 +7,17 @@ layout: default
 
 <img class="profile-picture" src="https://avatars0.githubusercontent.com/u/20524039?s=400&v=4">
 
-I am currently a PhD student at [Center for Astrophysics \| Harvard & Smithsonian](https://cfa.harvard.edu) working with [prof. Daniel Eisenstein](https://scholar.harvard.edu/deisenstein).
+I am currently a PhD student at [Center for Astrophysics \| Harvard & Smithsonian](https://cfa.harvard.edu) working with [prof. Daniel Eisenstein](https://scholar.harvard.edu/deisenstein) on small-scale baryon inhomogeneities at recombination time as a possible relief of Hubble tension.
 
-I was born in Odesa, Ukraine, graduated from Physics class of [Richelieu Lyceum](http://rl.odessa.ua/index.php/uk/) there in 2015 and started college at Department of General and Applied Physics of [Moscow Insitute of Physics and Technology](https://mipt.ru/english/). I continued my studies at [Tel Aviv University](https://english.tau.ac.il) and earned a B.Sc. degree in Physics in August 2020.
+Before this I earned a B.Sc. degree in Physics in August 2020 from [Tel Aviv University](https://english.tau.ac.il), where I worked with [Dr. Omer Bromberg](https://physics.tau.ac.il/profile/omerbr) on relativistic magnetohydrodynamic simulations of highly magnetized astrophysical jets propagating in a medium. Earlier I studied at Department of General and Applied Physics of [Moscow Insitute of Physics and Technology](https://mipt.ru/english/) and worked with prof. Vasily Beskin on radiopulsar statistics and losses mechanism.
+
+Another field of my interest are principles of quantum theory.
+
+See the dedicated pages for more details on [research experience](research) or [biography](bio).
 
 I am also known as Mykhailo Rashkovetskyi (officially, Ukrainian) and Mikhail Mikhailovich Rashkovetskiy (Russian).
 
-## Research Interests
-
-I am highly interested in astrophysics.
-
-My current project is in cosmological data analysis. I also have experience in compact objects, plasma, high-energy and am acquainted with conducting and analyzing numerical simulations (see [Research](research) for more details). Another field of my interest are principles of quantum theory.
-
-## References
+## Related researchers
 
 * [Prof. Daniel Eisenstein, Center for Astrophysics \| Harvard & Smithsonian](https://scholar.harvard.edu/deisenstein)
 * [Dr. Julian Munoz, Center for Astrophysics \| Harvard & Smithsonian](https://scholar.harvard.edu/julianbmunoz/home)
