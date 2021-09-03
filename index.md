@@ -21,6 +21,7 @@ I am also known as Mykhailo Rashkovetskyi (officially, Ukrainian) and Mikhail Mi
 
 * [Prof. Daniel Eisenstein, Center for Astrophysics \| Harvard & Smithsonian](https://scholar.harvard.edu/deisenstein)
 * [Dr. Julian Munoz, Center for Astrophysics \| Harvard & Smithsonian](https://scholar.harvard.edu/julianbmunoz/home)
+* [Prof. Cora Dvorkin, Harvard University](http://dvorkin.physics.harvard.edu/Home.html)
 * [Dr. Omer Bromberg, Tel Aviv University](https://physics.tau.ac.il/profile/omerbr)
 * Prof. Vasily Beskin, Moscow Institute of Physics and Technology and Lebedev Physical Institute
 * [Dr. Alexander Philippov, Flatiron Institute](https://sashaphilippov.wixsite.com/sashaph)
