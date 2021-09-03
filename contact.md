@@ -10,9 +10,11 @@ is_contact: true
 
 ## Address
 
-> Rishon leZion
+> Office A-109
 >
-> Israel
+> Center for Astrophysics \| Harvard & Smithsonian
+>  
+> 60 Garden St., Cambridge, MA, 02138
 
 ## Links
 

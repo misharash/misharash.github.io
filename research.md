@@ -17,6 +17,8 @@ For a brief list of publications, see [my ORCID](https://orcid.org/0000-0001-714
 
 **Open source**: [modified CLASS with clumping models](https://github.com/misharash/class_public).
 
+**Publication**: Rashkovetskyi, M., J. B. Muñoz, D. J. Eisenstein, and C. Dvorkin, 2021. [Small-scale Clumping at Recombination and the Hubble Tension. arXiv e-prints](https://ui.adsabs.harvard.edu/abs/2021arXiv210802747R).
+
 ### The dynamics of highly magnetized jets propagating in the medium
 
 (Dr. Omer Bromberg, Prof. Alexander Tchekhovskoy)
