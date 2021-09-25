@@ -9,7 +9,7 @@ markdown: kramdown
 ins_logo: ""
 
 favicon: true
-favicon_location: BTA.ico
+favicon_location: observatory.svg
 
 tracking_id: #
 
