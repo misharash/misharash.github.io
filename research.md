@@ -15,9 +15,9 @@ For a brief list of publications, see [my ORCID](https://orcid.org/0000-0001-714
 
 **Tools**: MCMC/nested sampling with [Cobaya](https://cobaya.readthedocs.io/en/latest/) using [CLASS](https://github.com/lesgourg/class_public) Boltzmann code
 
-**Open source**: [modified CLASS with clumping models](https://github.com/misharash/class_public).
+**Open source**: [modified CLASS with clumping models](https://github.com/misharash/class_public), [mock CMB likelihood for Cobaya](https://github.com/misharash/cobaya_mock_cmb).
 
-**Publication**: Rashkovetskyi, M., J. B. Muñoz, D. J. Eisenstein, and C. Dvorkin, 2021. [Small-scale Clumping at Recombination and the Hubble Tension. arXiv e-prints](https://ui.adsabs.harvard.edu/abs/2021arXiv210802747R).
+**Publication**: Rashkovetskyi, M., J. B. Muñoz, D. J. Eisenstein, and C. Dvorkin, 2021. [Small-scale clumping at recombination and the Hubble tension. Physical Review D 104](https://ui.adsabs.harvard.edu/abs/2021PhRvD.104j3517R).
 
 ### The dynamics of highly magnetized jets propagating in the medium
 
