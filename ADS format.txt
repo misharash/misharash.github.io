@@ -1,2 +1,2 @@
 Custom format for exporting paper information from ADS to research.md
-%10I, %Y. [%T. %J %V, %p-%P](%u).
+%10k, %Y. [%T. %J %V](%u).
