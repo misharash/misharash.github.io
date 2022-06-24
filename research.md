@@ -7,6 +7,31 @@ For a brief list of publications, see [my ORCID](https://orcid.org/0000-0001-714
 
 ## Research projects
 
+### RascalC: analytical-empirical covariance matrices with little or no mocks for DESI
+
+(Prof. Daniel Eistenstein)
+
+**Goal**: produce independent covariance matrices for 2-point function for different [Dark Energy Spectroscopic Instrument](https://desi.lbl.gov) datasets using RascalC code from [Philcox et al 2020](https://arxiv.org/abs/1904.11070), [Philcox et al 2019](https://arxiv.org/abs/1910.04764)
+
+**Tools**: importance sampling (Monte-Carlo) integration of analytical integrals, using interpolated 2-point correlation function; fitting to jackknife/mock covariance
+
+**Open source**: [further development version of RascalC](https://github.com/misharash/RascalC)
+
+### Double-squeezed 4-point correlation function and squeezed 3-point correlation function
+
+(Prof. Daniel Eistenstein)
+
+**Goals (potential)**:
+
+* develop new prescriptions for non-gaussian higher-point functions for [RascalC](https://github.com/misharash/RascalC)
+* get halo occupation distribution constraints (following [Yuan et al 2018](https://arxiv.org/abs/1802.10115))
+* extend halo models to "proto-halos" at 10-30 Mpc scales (following [Yuan et al 2017](https://arxiv.org/abs/1705.03464))
+* probe primordial non-Gaussianity
+
+**Tools**: efficient algorithm for alternatively binned quad/triple counting; numerical integration of disconnected 4-point function
+
+**Open source**: [4/3/2-point function estimation code in $\mathcal O (N_{\rm galaxies}^2)$ time](https://github.com/misharash/s4PCF).
+
 ### Inhomogeneous recombination relieving Hubble tension
 
 (Prof. Daniel Eistenstein, Dr. Julian Munoz, Prof. Cora Dvorkin)
