@@ -7,7 +7,7 @@ layout: default
 
 <img class="profile-picture" src="https://avatars0.githubusercontent.com/u/20524039?s=400&v=4">
 
-I am currently a PhD student at [Center for Astrophysics \| Harvard & Smithsonian](https://cfa.harvard.edu) working with [prof. Daniel Eisenstein](https://scholar.harvard.edu/deisenstein). We have recently finished a project on small-scale baryon inhomogeneities at recombination time as a possible relief of Hubble tension.
+I am currently a PhD student at [Center for Astrophysics \| Harvard & Smithsonian](https://cfa.harvard.edu) working with [prof. Daniel Eisenstein](https://scholar.harvard.edu/deisenstein) on analytic-empirical covariance matrices for 2-point correlation function for [DESI](https://desi.lbl.gov) and 4/3-point function estimation in squeezed limit. Earlier, we have finished a project on small-scale baryon inhomogeneities at recombination time as a possible relief of Hubble tension.
 
 Before this I earned a B.Sc. degree in Physics in August 2020 from [Tel Aviv University](https://english.tau.ac.il), where I worked with [Dr. Omer Bromberg](https://physics.tau.ac.il/profile/omerbr) on relativistic magnetohydrodynamic simulations of highly magnetized astrophysical jets propagating in a medium. Earlier I studied at Department of General and Applied Physics of [Moscow Insitute of Physics and Technology](https://mipt.ru/english/) and worked with prof. Vasily Beskin on radiopulsar statistics and losses mechanism.
 
