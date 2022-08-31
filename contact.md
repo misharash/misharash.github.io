@@ -10,11 +10,11 @@ is_contact: true
 
 ## Address
 
-> Office A-109
+> MS-10
 >
 > Center for Astrophysics \| Harvard & Smithsonian
->  
-> 60 Garden St., Cambridge, MA, 02138
+>
+> 60 Garden St, Cambridge, MA, 02138
 
 ## Links
 
