@@ -3,7 +3,7 @@ title: Michael 'Misha' Rashkovetskyi's research
 layout: default
 ---
 
-For a brief list of publications, see [my ORCID](https://orcid.org/0000-0001-7144-2349), [ADS](https://ui.adsabs.harvard.edu/search/q=orcid%3A0000-0001-7144-2349&sort=date+desc) or [my Google scholar profile](https://scholar.google.com/citations?user=z-_StAYAAAAJ).
+For a brief list of publications, see [my ORCID](https://orcid.org/0000-0001-7144-2349), [ADS](https://ui.adsabs.harvard.edu/search/q=orcid%3A0000-0001-7144-2349&sort=date+desc) or [my Google Scholar profile](https://scholar.google.com/citations?user=z-_StAYAAAAJ).
 
 ## Research projects
 
