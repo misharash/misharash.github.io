@@ -7,15 +7,17 @@ For a brief list of publications, see [my ORCID](https://orcid.org/0000-0001-714
 
 ## Research projects
 
-### RascalC: analytical-empirical covariance matrices with little or no mocks for DESI
+### Semi-analytical, semi-empirical covariance matrices for DESI 2-point correlation function
 
-(Prof. Daniel Eistenstein)
+(Prof. Daniel Eistenstein, Prof. Hee-Jong Seo, Prof. Nikhil Padmanabhan)
 
 **Goal**: produce independent covariance matrices for 2-point function for different [Dark Energy Spectroscopic Instrument](https://desi.lbl.gov) datasets using RascalC code from [Philcox et al 2020](https://arxiv.org/abs/1904.11070), [Philcox et al 2019](https://arxiv.org/abs/1910.04764)
 
 **Tools**: importance sampling (Monte-Carlo) integration of analytical integrals, using interpolated 2-point correlation function; fitting to jackknife/mock covariance
 
 **Open source**: [further development version of RascalC](https://github.com/misharash/RascalC)
+
+**Publication**: Jeongin Moon, David Valcin, **Michael Rashkovetskyi**, Christoph Saulder, et al., 2023. [First Detection of the BAO Signal from Early DESI Data. arXiv e-prints](https://ui.adsabs.harvard.edu/abs/2023arXiv230408427M).
 
 ### Double-squeezed 4-point correlation function and squeezed 3-point correlation function
 
