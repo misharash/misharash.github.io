@@ -20,10 +20,10 @@ I am also known as Mykhailo Rashkovetskyi (officially, Ukrainian) and Mikhail Mi
 ## Related researchers
 
 * [Prof. Daniel Eisenstein, Center for Astrophysics \| Harvard & Smithsonian](https://scholar.harvard.edu/deisenstein)
-* [Prof. Hee-Jong Seo](https://www.ohio.edu/cas/seoh)
-* [Prof. Nikhil Padmanabhan](https://physics.yale.edu/people/nikhil-padmanabhan)
-* [Dr. Ashley Ross](https://u.osu.edu/ross.1333/)
-* [Dr. Julian Munoz, Center for Astrophysics \| Harvard & Smithsonian](https://scholar.harvard.edu/julianbmunoz/home)
+* [Prof. Hee-Jong Seo, Ohio University](https://www.ohio.edu/cas/seoh)
+* [Prof. Nikhil Padmanabhan, Yale University](https://physics.yale.edu/people/nikhil-padmanabhan)
+* [Dr. Ashley Ross, The Ohio State University](https://u.osu.edu/ross.1333/)
+* [Prof. Julian Munoz, The University of Texas at Austin](https://sites.cns.utexas.edu/julianmunoz/home)
 * [Prof. Cora Dvorkin, Harvard University](http://dvorkin.physics.harvard.edu/Home.html)
 * [Dr. Omer Bromberg, Tel Aviv University](https://physics.tau.ac.il/profile/omerbr)
 * Prof. Vasily Beskin, Moscow Institute of Physics and Technology and Lebedev Physical Institute
