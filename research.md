@@ -20,7 +20,7 @@ For a brief list of publications, see [my ORCID](https://orcid.org/0000-0001-714
 **Publications**:
 
 * Jeongin Moon, David Valcin, **Michael Rashkovetskyi**, Christoph Saulder, et al., 2023. [First Detection of the BAO Signal from Early DESI Data. arXiv e-prints](https://ui.adsabs.harvard.edu/abs/2023arXiv230408427M).
-* Michael Rashkovetskyi, et al., 2023. [Validation of semi-analytical, semi-empirical covariance matrices for two-point correlation function for early DESI data. Monthly Notices of the Royal Astronomical Society 524](https://ui.adsabs.harvard.edu/abs/2023MNRAS.524.3894R).
+* **Michael Rashkovetskyi**, Daniel Eisenstein, et al., 2023. [Validation of semi-analytical, semi-empirical covariance matrices for two-point correlation function for early DESI data. Monthly Notices of the Royal Astronomical Society 524](https://ui.adsabs.harvard.edu/abs/2023MNRAS.524.3894R).
 
 ### Double-squeezed 4-point correlation function and squeezed 3-point correlation function
 
