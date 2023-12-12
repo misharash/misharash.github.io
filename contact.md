@@ -10,7 +10,7 @@ is_contact: true
 
 ## Address
 
-> MS-10
+> Ofc P-302
 >
 > Center for Astrophysics \| Harvard & Smithsonian
 >
