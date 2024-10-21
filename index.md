@@ -7,7 +7,8 @@ layout: default
 
 <img class="profile-picture" src="https://avatars0.githubusercontent.com/u/20524039?s=400&v=4">
 
-I am currently a PhD student at [Center for Astrophysics \| Harvard & Smithsonian](https://cfa.harvard.edu) working with [prof. Daniel Eisenstein](https://scholar.harvard.edu/deisenstein).
+I am currently a PhD candidate at [Center for Astrophysics \| Harvard & Smithsonian](https://cfa.harvard.edu) working with [prof. Daniel Eisenstein](https://scholar.harvard.edu/deisenstein).
+I am planning to graduate in May 2025 and I am applying for postdoctoral positions.
 
 I have developed the covariance matrix pipeline for 2-point correlation function for [the Dark Energy Spectroscopic Instrument (DESI)](https://desi.lbl.gov) 2024 baryon acoustic oscillations measurements, and I am continuing this work for the ongoing analysis of the 3-year DESI data.
 I am also working on selection/weighting of DESI galaxies based on a thermal Sunyaev-Zeldovich map to extract more information from galaxy clustering.
