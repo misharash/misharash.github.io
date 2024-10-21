@@ -9,18 +9,26 @@ For a brief list of publications, see [my ORCID](https://orcid.org/0000-0001-714
 
 ### Semi-analytical, semi-empirical covariance matrices for DESI 2-point correlation function
 
-(Prof. Daniel Eistenstein, Prof. Hee-Jong Seo, Prof. Nikhil Padmanabhan, Dr. Ashley Ross)
+(Prof. Daniel Eistenstein, Prof. Hee-Jong Seo, Prof. Ashley Ross, Prof. Nikhil Padmanabhan)
 
-**Goal**: produce independent covariance matrices for 2-point function for different [Dark Energy Spectroscopic Instrument](https://desi.lbl.gov) datasets using RascalC code from [Philcox et al 2020](https://arxiv.org/abs/1904.11070), [Philcox et al 2019](https://arxiv.org/abs/1910.04764)
+**Goal**: produce independent covariance matrices for 2-point function for different [Dark Energy Spectroscopic Instrument (DESI)](https://desi.lbl.gov) datasets using RascalC code from [Philcox et al 2020](https://arxiv.org/abs/1904.11070), [Philcox et al 2019](https://arxiv.org/abs/1910.04764)
 
 **Tools**: importance sampling (Monte-Carlo) integration of analytical integrals, using interpolated 2-point correlation function; fitting to jackknife/mock covariance
 
-**Open source**: [further development version of RascalC](https://github.com/misharash/RascalC)
+**Open source**: [further development version of RascalC (library)](https://github.com/misharash/RascalC), [scripts including the DESI covariance pipeline](https://github.com/cosmodesi/RascalC-scripts)
 
-**Publications**:
+**First-author publications**:
+
+* **Michael Rashkovetskyi**, Daniel Forero-Sanchez, Arnaud de Mattia, Daniel J. Eisenstein, Nikhil Padmanabhan, Hee-Jong Seo, Ashley J. Ross, et al., 2024. [Semi-analytical covariance matrices for two-point correlation function for DESI 2024 data. arXiv e-prints](https://ui.adsabs.harvard.edu/abs/2024arXiv240403007R).
+* **Michael Rashkovetskyi**, Daniel Eisenstein, et al., 2023. [Validation of semi-analytical, semi-empirical covariance matrices for two-point correlation function for early DESI data. Monthly Notices of the Royal Astronomical Society 524](https://ui.adsabs.harvard.edu/abs/2023MNRAS.524.3894R).
+
+**Selected contributions**:
 
 * Jeongin Moon, David Valcin, **Michael Rashkovetskyi**, Christoph Saulder, et al., 2023. [First Detection of the BAO Signal from Early DESI Data. arXiv e-prints](https://ui.adsabs.harvard.edu/abs/2023arXiv230408427M).
-* **Michael Rashkovetskyi**, Daniel Eisenstein, et al., 2023. [Validation of semi-analytical, semi-empirical covariance matrices for two-point correlation function for early DESI data. Monthly Notices of the Royal Astronomical Society 524](https://ui.adsabs.harvard.edu/abs/2023MNRAS.524.3894R).
+* DESI Collaboration, et al., 2024. [DESI 2024 III: Baryon Acoustic Oscillations from Galaxies and Quasars. arXiv e-prints](https://ui.adsabs.harvard.edu/abs/2024arXiv240403000D).
+* DESI Collaboration, et al., 2024. [DESI 2024 VI: Cosmological Constraints from the Measurements of Baryon Acoustic Oscillations. arXiv e-prints](https://ui.adsabs.harvard.edu/abs/2024arXiv240403002D).
+* DESI Collaboration, et al., 2024. [The Early Data Release of the Dark Energy Spectroscopic Instrument. The Astronomical Journal 168](https://ui.adsabs.harvard.edu/abs/2024AJ....168...58D).
+* DESI Collaboration, et al., 2024. [Validation of the Scientific Program for the Dark Energy Spectroscopic Instrument. The Astronomical Journal 167](https://ui.adsabs.harvard.edu/abs/2024AJ....167...62D).
 
 ### Double-squeezed 4-point correlation function and squeezed 3-point correlation function
 
