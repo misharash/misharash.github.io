@@ -7,6 +7,19 @@ For a brief list of publications, see [my ORCID](https://orcid.org/0000-0001-714
 
 ## Research projects
 
+### Selection/weighting of spectroscopic (DESI) galaxies based on thermal Sunyaev-Zeldovich map
+
+(Prof. Daniel Eistenstein)
+
+**Goals**:
+
+* more precise inference of standard cosmological parameters: growth of structure, matter fraction, and neutrino masses
+* testing modified gravity
+* studying environmental effects on galaxy-halo connection
+* systematic check for the tighter constraints from density-split and density-marked (density-weighted) clustering techniques
+
+**Tools**: Davis-Peebles estimator for the correlation function; efficient algorithm for finding close pairs in cylinders elongated along the line of sight
+
 ### Semi-analytical, semi-empirical covariance matrices for DESI 2-point correlation function
 
 (Prof. Daniel Eistenstein, Prof. Hee-Jong Seo, Prof. Ashley Ross, Prof. Nikhil Padmanabhan)
