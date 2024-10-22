@@ -20,7 +20,7 @@ For a brief list of publications, see [my ORCID](https://orcid.org/0000-0001-714
 
 **Tools**: Davis-Peebles estimator for the correlation function; efficient algorithm for finding close pairs in cylinders elongated along the line of sight
 
-### Semi-analytical, semi-empirical covariance matrices for DESI 2-point correlation function
+### Semi-analytical covariance matrices for DESI 2-point correlation function
 
 (Prof. Daniel Eistenstein, Prof. Hee-Jong Seo, Prof. Ashley Ross, Prof. Nikhil Padmanabhan)
 
