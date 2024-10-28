@@ -32,6 +32,6 @@ I am also known as Mykhailo Rashkovetskyi (officially, Ukrainian) and Mikhail Mi
 * [Prof. Julian Munoz, The University of Texas at Austin](https://sites.cns.utexas.edu/julianmunoz/home)
 * [Prof. Cora Dvorkin, Harvard University](http://dvorkin.physics.harvard.edu/Home.html)
 * Prof. Vasily Beskin, Moscow Institute of Physics and Technology & Lebedev Physical Institute
-* [Dr. Alexander Philippov, Flatiron Institute](https://sashaphilippov.wixsite.com/sashaph)
+* [Prof. Alexander Philippov, University of Maryland](https://umdphysics.umd.edu/people/faculty/current/item/1893-sashaph.html)
 * [Dr. Omer Bromberg, Tel Aviv University](https://physics.tau.ac.il/profile/omerbr)
-* [Prof. Alexander Tchekhovskoy, Northwestern University](https://sites.google.com/site/atchekho/)
+* [Prof. Alexander Tchekhovskoy, Northwestern University](https://ciera.northwestern.edu/directory/sasha-tchekhovskoy/)
