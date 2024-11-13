@@ -29,7 +29,7 @@ I am also known as Mykhailo Rashkovetskyi (officially, Ukrainian) and Mikhail Mi
 * [Prof. Hee-Jong Seo, Ohio University](https://www.ohio.edu/cas/seoh)
 * [Prof. Ashley Ross, The Ohio State University](https://u.osu.edu/ross.1333/)
 * [Prof. Nikhil Padmanabhan, Yale University](https://physics.yale.edu/people/nikhil-padmanabhan)
-* [Prof. Julian Munoz, The University of Texas at Austin](https://sites.cns.utexas.edu/julianmunoz/home)
+* [Prof. Julian Muñoz, The University of Texas at Austin](https://sites.cns.utexas.edu/julianmunoz/home)
 * [Prof. Cora Dvorkin, Harvard University](http://dvorkin.physics.harvard.edu/Home.html)
 * Prof. Vasily Beskin, Moscow Institute of Physics and Technology & Lebedev Physical Institute
 * [Prof. Alexander Philippov, University of Maryland](https://umdphysics.umd.edu/people/faculty/current/item/1893-sashaph.html)
