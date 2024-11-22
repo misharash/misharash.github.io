@@ -47,7 +47,7 @@ For a brief list of publications, see [my ORCID](https://orcid.org/0000-0001-714
 
 **Selected contributions**:
 
-* Jeongin Moon, David Valcin, **Michael Rashkovetskyi**, Christoph Saulder, et al., 2023. [First Detection of the BAO Signal from Early DESI Data. arXiv e-prints](https://ui.adsabs.harvard.edu/abs/2023arXiv230408427M).
+* Jeongin Moon, David Valcin, **Michael Rashkovetskyi**, Christoph Saulder, et al., 2023. [First detection of the BAO signal from early DESI data. Monthly Notices of the Royal Astronomical Society 525](https://ui.adsabs.harvard.edu/abs/2023MNRAS.525.5406M).
 * Daniel Forero-Sánchez, **Michael Rashkovetskyi**, Otávio Alves, et al., 2024. [Analytical and EZmock covariance validation for the DESI 2024 results. arXiv e-prints](https://ui.adsabs.harvard.edu/abs/2024arXiv241112027F).
 * DESI Collaboration, et al., 2024. [DESI 2024 III: Baryon Acoustic Oscillations from Galaxies and Quasars. arXiv e-prints](https://ui.adsabs.harvard.edu/abs/2024arXiv240403000D).
 * DESI Collaboration, et al., 2024. [DESI 2024 II: Sample Definitions, Characteristics, and Two-point Clustering Statistics. arXiv e-prints](https://ui.adsabs.harvard.edu/abs/2024arXiv241112020D).
