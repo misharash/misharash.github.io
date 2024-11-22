@@ -48,8 +48,12 @@ For a brief list of publications, see [my ORCID](https://orcid.org/0000-0001-714
 **Selected contributions**:
 
 * Jeongin Moon, David Valcin, **Michael Rashkovetskyi**, Christoph Saulder, et al., 2023. [First Detection of the BAO Signal from Early DESI Data. arXiv e-prints](https://ui.adsabs.harvard.edu/abs/2023arXiv230408427M).
+* Daniel Forero-Sánchez, **Michael Rashkovetskyi**, Otávio Alves, et al., 2024. [Analytical and EZmock covariance validation for the DESI 2024 results. arXiv e-prints](https://ui.adsabs.harvard.edu/abs/2024arXiv241112027F).
 * DESI Collaboration, et al., 2024. [DESI 2024 III: Baryon Acoustic Oscillations from Galaxies and Quasars. arXiv e-prints](https://ui.adsabs.harvard.edu/abs/2024arXiv240403000D).
+* DESI Collaboration, et al., 2024. [DESI 2024 II: Sample Definitions, Characteristics, and Two-point Clustering Statistics. arXiv e-prints](https://ui.adsabs.harvard.edu/abs/2024arXiv241112020D).
+* DESI Collaboration, et al., 2024. [DESI 2024 V: Full-Shape Galaxy Clustering from Galaxies and Quasars. arXiv e-prints](https://ui.adsabs.harvard.edu/abs/2024arXiv241112021D).
 * DESI Collaboration, et al., 2024. [DESI 2024 VI: Cosmological Constraints from the Measurements of Baryon Acoustic Oscillations. arXiv e-prints](https://ui.adsabs.harvard.edu/abs/2024arXiv240403002D).
+* DESI Collaboration, et al., 2024. [DESI 2024 VII: Cosmological Constraints from the Full-Shape Modeling of Clustering Measurements. arXiv e-prints](https://ui.adsabs.harvard.edu/abs/2024arXiv241112022D).
 * DESI Collaboration, et al., 2024. [The Early Data Release of the Dark Energy Spectroscopic Instrument. The Astronomical Journal 168](https://ui.adsabs.harvard.edu/abs/2024AJ....168...58D).
 * DESI Collaboration, et al., 2024. [Validation of the Scientific Program for the Dark Energy Spectroscopic Instrument. The Astronomical Journal 167](https://ui.adsabs.harvard.edu/abs/2024AJ....167...62D).
 
