@@ -13,7 +13,7 @@ MathJax.Hub.Config({
 </script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.0/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript"></script>
 
-For a brief list of publications, see [my ORCID](https://orcid.org/0000-0001-7144-2349), [NASA Astrophysical Data System search](https://ui.adsabs.harvard.edu/search/q=orcid%3A0000-0001-7144-2349&sort=date+desc), [ADS library](https://ui.adsabs.harvard.edu/public-libraries/Cx35iQhISOC4oNyvk2tqZA) or [my Google Scholar profile](https://scholar.google.com/citations?user=z-_StAYAAAAJ).
+For a brief list of publications, see [my ORCID](https://orcid.org/0000-0001-7144-2349), [NASA Astrophysical Data System search](https://ui.adsabs.harvard.edu/search/q=orcid:0000-0001-7144-2349), [ADS library](https://ui.adsabs.harvard.edu/public-libraries/Cx35iQhISOC4oNyvk2tqZA) or [my Google Scholar profile](https://scholar.google.com/citations?user=z-_StAYAAAAJ).
 
 ## Research projects
 
