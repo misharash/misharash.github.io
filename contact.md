@@ -26,3 +26,4 @@ is_contact: true
 * [Google Scholar](https://scholar.google.com/citations?user=z-_StAYAAAAJ)
 * [GitHub](https://github.com/misharash)
 * [X (Twitter)](https://x.com/rashkovetskyim)
+* [BlueSky](https://bsky.app/profile/rashkovetsky.im)
