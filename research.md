@@ -56,7 +56,7 @@ For a brief list of publications, see my
 * DESI Collaboration, et al., 2024. [DESI 2024 III: Baryon Acoustic Oscillations from Galaxies and Quasars. arXiv e-prints](https://ui.adsabs.harvard.edu/abs/2024arXiv240403000D).
 * DESI Collaboration, et al., 2024. [DESI 2024 II: Sample Definitions, Characteristics, and Two-point Clustering Statistics. arXiv e-prints](https://ui.adsabs.harvard.edu/abs/2024arXiv241112020D).
 * DESI Collaboration, et al., 2024. [DESI 2024 V: Full-Shape Galaxy Clustering from Galaxies and Quasars. arXiv e-prints](https://ui.adsabs.harvard.edu/abs/2024arXiv241112021D).
-* DESI Collaboration, et al., 2024. [DESI 2024 VI: Cosmological Constraints from the Measurements of Baryon Acoustic Oscillations. arXiv e-prints](https://ui.adsabs.harvard.edu/abs/2024arXiv240403002D).
+* DESI Collaboration, et al., 2025. [DESI 2024 VI: cosmological constraints from the measurements of baryon acoustic oscillations. Journal of Cosmology and Astroparticle Physics 2025](https://ui.adsabs.harvard.edu/abs/2025JCAP...02..021A).
 * DESI Collaboration, et al., 2024. [DESI 2024 VII: Cosmological Constraints from the Full-Shape Modeling of Clustering Measurements. arXiv e-prints](https://ui.adsabs.harvard.edu/abs/2024arXiv241112022D).
 * DESI Collaboration, et al., 2024. [The Early Data Release of the Dark Energy Spectroscopic Instrument. The Astronomical Journal 168](https://ui.adsabs.harvard.edu/abs/2024AJ....168...58D).
 * DESI Collaboration, et al., 2024. [Validation of the Scientific Program for the Dark Energy Spectroscopic Instrument. The Astronomical Journal 167](https://ui.adsabs.harvard.edu/abs/2024AJ....167...62D).
