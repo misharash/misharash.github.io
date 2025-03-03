@@ -14,7 +14,7 @@ The following visuals use an [AbacusHOD](https://abacusutils.readthedocs.io/en/l
 
 Initially, I helped [Claire Lamman](https://cmlamman.github.io) create [the animation](https://www.youtube.com/watch?v=AgX3lZEr240) for [the November 2024 DESI press release](https://newscenter.lbl.gov/2024/11/19/new-desi-results-weigh-in-on-gravity/).
 
-In this page, I focus on further versions, that are more nuanced and probably require a deeper involvement.
+In this page, I focus on further versions, which are more nuanced and probably require a deeper involvement.
 They were made using fragments of Claire's code, and were improved using feedback from her, Daniel Eisenstein and other members of his group at Harvard/Center for Astrophysics, particularly Catherine Miller, who suggested to represent redshifts with rainbow colors.
 
 #### Animation with coloring by peculiar velocities
@@ -45,7 +45,7 @@ Credit: M. Rashkovetskyi, C. Lamman, C. Miller, D. Eisenstein (DESI collaboratio
 
 #### Static step-by-step explanation
 
-This version in zoomed in further to make the changes more noticeable.
+This version is zoomed in further to make the changes more noticeable.
 
 <table>
 <tr>
