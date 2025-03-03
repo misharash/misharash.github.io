@@ -31,13 +31,13 @@ Here I provide two versions with different opacities for galaxies, which can aim
 <tr>
 <td markdown="1">
 
-![1-panel animation](files/outreach/RSD/1panel_high_opacity.gif)
-[Video (mp4) format](files/outreach/RSD/1panel_high_opacity.mp4)
+![1-panel animation](files/outreach/RSD/RSD_1panel_high_opacity.gif)
+[Video (mp4) format](files/outreach/RSD/RSD_1panel_high_opacity.mp4)
 </td>
 <td markdown="1">
 
-![1-panel animation](files/outreach/RSD/1panel_low_opacity.gif)
-[Video (mp4) format](files/outreach/RSD/1panel_low_opacity.mp4)
+![1-panel animation](files/outreach/RSD/RSD_1panel_low_opacity.gif)
+[Video (mp4) format](files/outreach/RSD/RSD_1panel_low_opacity.mp4)
 </td>
 </tr>
 </table>
@@ -51,7 +51,7 @@ This version in zoomed in further to make the changes more noticeable.
 <tr>
 <td markdown="1">
 
-![4-panel static step-by-step explanation](files/outreach/RSD/4panels_step-by-step.png)
+![4-panel static step-by-step explanation](files/outreach/RSD/RSD_4panels_step-by-step.png)
 Credit: M. Rashkovetskyi, C. Lamman, C. Miller, D. Eisenstein (DESI collaboration)
 </td>
 <td markdown="1">
@@ -75,7 +75,7 @@ In the top panel, the galaxies are colored by redshift, in the bottom one — by
 Both use the same positions.
 I introduced an additional transition between cosmological-only redshifts and total redshifts (including the Doppler effect from peculiar velocities), it only affects the colors in the top panel and is more subtler than the position shift.
 
-<img src="files/outreach/RSD/2panels_extended.gif" alt="2-panel extended animation" style="height: 90vh; width: auto" />
+<img src="files/outreach/RSD/RSD_2panels_extended.gif" alt="2-panel extended animation" style="height: 90vh; width: auto" />
 
 Credit: M. Rashkovetskyi, C. Lamman, C. Miller, D. Eisenstein (DESI collaboration)
 
