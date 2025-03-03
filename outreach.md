@@ -23,7 +23,7 @@ This animation highlights the peculiar velocities as the cause for the differenc
 Galaxies colored in red are moving up (away from the observer far below), in blue — down (towards the observer).
 They shift in the same direction when the slider goes up (from true to redshift-based positions).
 The colors give cues where to expect differences.
-This allows to see not only the more prominent Fingers of God (elongation along the line of sight) on small scales, but the subtler Kaiser effect ("pancakes of God", flattening along the line of sight) on larger scales.
+This allows to see not only the more prominent Fingers of God (elongation along the line of sight) on small scales, but also the subtler Kaiser effect ("pancakes of God", flattening along the line of sight) on larger scales.
 
 Here I provide two versions with different opacities for galaxies, which can aim for different presentation circumstances (e.g. LCD screen vs projector):
 
