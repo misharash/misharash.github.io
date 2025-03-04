@@ -41,7 +41,7 @@ Here I provide two versions with different opacities for galaxies, which can aim
 </td>
 </tr>
 </table>
-Credit: M. Rashkovetskyi, C. Lamman, C. Miller, D. Eisenstein (DESI collaboration)
+(Credit: M. Rashkovetskyi, C. Lamman, C. Miller, D. Eisenstein / DESI collaboration)
 
 #### Static step-by-step explanation
 
@@ -52,7 +52,7 @@ This version is zoomed in further to make the changes more noticeable.
 <td markdown="1">
 
 ![4-panel static step-by-step explanation](files/outreach/RSD/RSD_4panels_step-by-step.png)
-Credit: M. Rashkovetskyi, C. Lamman, C. Miller, D. Eisenstein (DESI collaboration)
+(Credit: M. Rashkovetskyi, C. Lamman, C. Miller, D. Eisenstein / DESI collaboration)
 </td>
 <td markdown="1">
 
@@ -77,6 +77,6 @@ I introduced an additional transition between cosmological-only redshifts and to
 
 <img src="files/outreach/RSD/RSD_2panels_extended.gif" alt="2-panel extended animation" style="height: 90vh; width: auto" />
 
-Credit: M. Rashkovetskyi, C. Lamman, C. Miller, D. Eisenstein (DESI collaboration)
+(Credit: M. Rashkovetskyi, C. Lamman, C. Miller, D. Eisenstein / DESI collaboration)
 
 [Video (mp4) format](files/outreach/RSD/2panels_extended.mp4)
