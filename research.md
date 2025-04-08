@@ -34,7 +34,7 @@ For a brief list of publications, see my
 
 **Tools**: Davis-Peebles estimator for the correlation function; efficient algorithm for finding close pairs in cylinders elongated along the line of sight
 
-### Semi-analytical covariance matrices for DESI 2-point correlation function
+### Semi-analytical covariance matrices for DESI 2-point correlation functions
 
 (Prof. Daniel Eistenstein, Prof. Hee-Jong Seo, Prof. Ashley Ross, Prof. Nikhil Padmanabhan)
 
@@ -53,11 +53,14 @@ For a brief list of publications, see my
 
 * Jeongin Moon, David Valcin, **Michael Rashkovetskyi**, Christoph Saulder, et al., 2023. [First detection of the BAO signal from early DESI data. Monthly Notices of the Royal Astronomical Society 525](https://ui.adsabs.harvard.edu/abs/2023MNRAS.525.5406M).
 * Daniel Forero-Sánchez, **Michael Rashkovetskyi**, Otávio Alves, et al., 2024. [Analytical and EZmock covariance validation for the DESI 2024 results. arXiv e-prints](https://ui.adsabs.harvard.edu/abs/2024arXiv241112027F).
+* Uendert Andrade, Enrique Paillas, Juan Mena-Fernández, Qinxun Li, Ashley J. Ross, Seshadri Nadathur, **Michael Rashkovetskyi**, Alejandro Pérez-Fernández, Hee-Jong Seo, Nick Sanders, Otavio Alves, Xinyi Chen, Nicola Deiosso, Arnaud de Mattia, Martin White, et al., 2025. [Validation of the DESI DR2 Measurements of Baryon Acoustic Oscillations from Galaxies and Quasars. arXiv e-prints](https://ui.adsabs.harvard.edu/abs/2025arXiv250314742A).
+* DESI Collaboration, et al., 2025. [DESI DR2 Results II: Measurements of Baryon Acoustic Oscillations and Cosmological Constraints. arXiv e-prints](https://ui.adsabs.harvard.edu/abs/2025arXiv250314738D).
 * DESI Collaboration, et al., 2024. [DESI 2024 III: Baryon Acoustic Oscillations from Galaxies and Quasars. arXiv e-prints](https://ui.adsabs.harvard.edu/abs/2024arXiv240403000D).
 * DESI Collaboration, et al., 2024. [DESI 2024 II: Sample Definitions, Characteristics, and Two-point Clustering Statistics. arXiv e-prints](https://ui.adsabs.harvard.edu/abs/2024arXiv241112020D).
 * DESI Collaboration, et al., 2024. [DESI 2024 V: Full-Shape Galaxy Clustering from Galaxies and Quasars. arXiv e-prints](https://ui.adsabs.harvard.edu/abs/2024arXiv241112021D).
 * DESI Collaboration, et al., 2025. [DESI 2024 VI: cosmological constraints from the measurements of baryon acoustic oscillations. Journal of Cosmology and Astroparticle Physics 2025](https://ui.adsabs.harvard.edu/abs/2025JCAP...02..021A).
 * DESI Collaboration, et al., 2024. [DESI 2024 VII: Cosmological Constraints from the Full-Shape Modeling of Clustering Measurements. arXiv e-prints](https://ui.adsabs.harvard.edu/abs/2024arXiv241112022D).
+* DESI Collaboration, et al., 2025. [Data Release 1 of the Dark Energy Spectroscopic Instrument. arXiv e-prints](https://ui.adsabs.harvard.edu/abs/2025arXiv250314745D).
 * DESI Collaboration, et al., 2024. [The Early Data Release of the Dark Energy Spectroscopic Instrument. The Astronomical Journal 168](https://ui.adsabs.harvard.edu/abs/2024AJ....168...58D).
 * DESI Collaboration, et al., 2024. [Validation of the Scientific Program for the Dark Energy Spectroscopic Instrument. The Astronomical Journal 167](https://ui.adsabs.harvard.edu/abs/2024AJ....167...62D).
 
