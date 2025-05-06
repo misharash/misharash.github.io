@@ -46,6 +46,12 @@ My public thesis talk is available [on YouTube](https://www.youtube.com/live/fDr
 
 **Open source**: [further development version of RascalC (library)](https://github.com/misharash/RascalC), [scripts including the DESI covariance pipeline](https://github.com/cosmodesi/RascalC-scripts)
 
+**Talks**:
+
+* [Semi-analytic covariance matrices for 2PCF of DESI galaxies (ITC Luncheon, YouTube recording)](https://www.youtube.com/live/QvwUpWEW9hk?t=3354s)
+* [First Detection of the BAO Signal from Early DESI Data (Cosmology from Home 2023, on YouTube)](https://www.youtube.com/watch?v=_r7kNNDtaPw)
+* [Early DESI Results (2023) - BAO with BOSS Precision after just two months (Moon, Valcin & Saulder, Cosmology Talks)](https://www.youtube.com/watch?v=SHmKO5wRlko)
+
 **First-author publications**:
 
 * **Michael Rashkovetskyi**, Daniel Forero-Sánchez, Arnaud de Mattia, Daniel J. Eisenstein, Nikhil Padmanabhan, Hee-Jong Seo, Ashley J. Ross, et al., 2025. [Semi-analytical covariance matrices for two-point correlation function for DESI 2024 data. Journal of Cosmology and Astroparticle Physics 2025](https://ui.adsabs.harvard.edu/abs/2025JCAP...01..145R).
