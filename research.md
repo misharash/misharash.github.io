@@ -19,6 +19,8 @@ For a brief list of publications, see my
 * [INSPIRE-HEP profile](https://inspirehep.net/authors/1900089),
 * [Google Scholar profile](https://scholar.google.com/citations?user=z-_StAYAAAAJ).
 
+My public thesis talk is available [on YouTube](https://www.youtube.com/live/fDrcQdFJJ0U).
+
 ## Research projects
 
 ### Selection/weighting of spectroscopic (DESI) galaxies based on thermal Sunyaev-Zeldovich map
