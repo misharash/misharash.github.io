@@ -19,7 +19,7 @@ For a brief list of publications, see my
 * [INSPIRE-HEP profile](https://inspirehep.net/authors/1900089),
 * [Google Scholar profile](https://scholar.google.com/citations?user=z-_StAYAAAAJ).
 
-My thesis:
+My PhD thesis:
 * [public talk on YouTube](https://www.youtube.com/live/fDrcQdFJJ0U);
 * [dissertation PDF](files/Dissertation_Rashkovetskyi_2025.pdf) and [LaTeX source code](https://github.com/misharash/thesis).
 
