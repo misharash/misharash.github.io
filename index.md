@@ -7,11 +7,11 @@ layout: default
 
 <img class="profile-picture" src="https://avatars0.githubusercontent.com/u/20524039?s=400&v=4">
 
-I am a short-term postdoc at [Center for Astrophysics \| Harvard & Smithsonian](https://cfa.harvard.edu) working with [prof. Daniel Eisenstein](https://scholar.harvard.edu/deisenstein).
-I finished my PhD in May 2025 and I will be a [Center for Cosmology and AstroParticle Physics (CCAPP)](https://ccapp.osu.edu/) fellow at [the Ohio State University](https://physics.osu.edu/) from late July 2025.
+I am a [Center for Cosmology and AstroParticle Physics (CCAPP)](https://ccapp.osu.edu/) postdoctoral fellow at [the Ohio State University](https://physics.osu.edu/).
 
-I have developed the covariance matrix pipeline for 2-point correlation function for [the Dark Energy Spectroscopic Instrument (DESI)](https://desi.lbl.gov) 2024 baryon acoustic oscillations measurements, and I am continuing this work for the ongoing analysis of the 3-year DESI data.
-I am also working on selection/weighting of DESI galaxies based on a thermal Sunyaev-Zeldovich map to extract more information from galaxy clustering.
+I defended my PhD in May 2025 at [Center for Astrophysics \| Harvard & Smithsonian](https://cfa.harvard.edu) with [prof. Daniel Eisenstein](https://scholar.harvard.edu/deisenstein).
+I have developed the covariance matrix pipeline for 2-point correlation function for [the Dark Energy Spectroscopic Instrument (DESI)](https://desi.lbl.gov) 2024 (DR1) and DR2 baryon acoustic oscillations measurements.
+I am also working on the splitting of DESI galaxies based on a thermal Sunyaev-Zeldovich map to extract more information from galaxy clustering.
 Earlier, I finished a project on small-scale baryon inhomogeneities at recombination time as a possible relief of Hubble tension.
 
 Before this I earned a B.Sc. degree in Physics in August 2020 from [Tel Aviv University](https://english.tau.ac.il), where I worked with [Dr. Omer Bromberg](https://physics.tau.ac.il/profile/omerbr) on relativistic magnetohydrodynamic simulations of highly magnetized astrophysical jets propagating in a medium.

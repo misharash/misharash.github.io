@@ -4,17 +4,19 @@ layout: default
 is_contact: true
 ---
 
-* Email: mrashkovetskyi [at] cfa.harvard.edu
+* Email: rashkovetskyi.1 [at] osu.edu
 
 ---
 
 ## Address
 
-> Ofc P-302
+> Ofc M2018
 >
-> Center for Astrophysics \| Harvard & Smithsonian
+> OSU Center for Cosmology and AstroParticle Physics (CCAPP)
 >
-> 60 Garden St, Cambridge, MA, 02138
+> Physics Research Building
+>
+> 191 W Woodruff Ave, Columbus, OH, 43210
 
 ## Links
 
