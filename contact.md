@@ -29,3 +29,4 @@ is_contact: true
 * [GitHub](https://github.com/misharash)
 * [X (Twitter)](https://x.com/rashkovetskyim)
 * [BlueSky](https://bsky.app/profile/rashkovetsky.im)
+* [OSU CCAPP Profile](https://ccapp.osu.edu/people/rashkovetskyi.1)
