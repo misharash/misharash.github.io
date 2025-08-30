@@ -38,6 +38,10 @@ My PhD thesis:
 
 **Tools**: Davis-Peebles estimator for the correlation function; efficient algorithm for finding close pairs in cylinders elongated along the line of sight
 
+**Publication**: **Michael Rashkovetskyi**, Daniel J. Eisenstein, et al., 2025. [Clustering of DESI galaxies split by thermal Sunyaev-Zeldovich effect. arXiv e-prints](https://ui.adsabs.harvard.edu/abs/2025arXiv250820904R).
+
+**Open source and data**: supplementary material <https://zenodo.org/records/16943122>.
+
 ### Semi-analytical covariance matrices for DESI 2-point correlation functions
 
 (Prof. Daniel Eistenstein, Prof. Hee-Jong Seo, Prof. Ashley Ross, Prof. Nikhil Padmanabhan)
