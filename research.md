@@ -72,7 +72,7 @@ My PhD thesis:
 * DESI Collaboration, et al., 2025. [DESI DR2 Results II: Measurements of Baryon Acoustic Oscillations and Cosmological Constraints. arXiv e-prints](https://ui.adsabs.harvard.edu/abs/2025arXiv250314738D).
 * DESI Collaboration, et al., 2025. [DESI 2024 III: baryon acoustic oscillations from galaxies and quasars. Journal of Cosmology and Astroparticle Physics 2025](https://ui.adsabs.harvard.edu/abs/2025JCAP...04..012A).
 * DESI Collaboration, et al., 2025. [DESI 2024 II: sample definitions, characteristics, and two-point clustering statistics. Journal of Cosmology and Astroparticle Physics 2025](https://ui.adsabs.harvard.edu/abs/2025JCAP...07..017A).
-* DESI Collaboration, et al., 2024. [DESI 2024 V: Full-Shape Galaxy Clustering from Galaxies and Quasars. arXiv e-prints](https://ui.adsabs.harvard.edu/abs/2024arXiv241112021D).
+* DESI Collaboration, et al., 2025. [DESI 2024 V: Full-Shape galaxy clustering from galaxies and quasars. Journal of Cosmology and Astroparticle Physics 2025](https://ui.adsabs.harvard.edu/abs/2025JCAP...09..008A).
 * DESI Collaboration, et al., 2025. [DESI 2024 VI: cosmological constraints from the measurements of baryon acoustic oscillations. Journal of Cosmology and Astroparticle Physics 2025](https://ui.adsabs.harvard.edu/abs/2025JCAP...02..021A).
 * DESI Collaboration, et al., 2025. [DESI 2024 VII: cosmological constraints from the full-shape modeling of clustering measurements. Journal of Cosmology and Astroparticle Physics 2025](https://ui.adsabs.harvard.edu/abs/2025JCAP...07..028A).
 * DESI Collaboration, et al., 2025. [Data Release 1 of the Dark Energy Spectroscopic Instrument. arXiv e-prints](https://ui.adsabs.harvard.edu/abs/2025arXiv250314745D).
