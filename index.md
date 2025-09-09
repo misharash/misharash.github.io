@@ -20,6 +20,7 @@ Earlier I studied at Department of General and Applied Physics of [Moscow Insitu
 Another field of my interest are principles of quantum theory.
 
 See the dedicated pages for more details on [research experience](research) or [biography](bio).
+You can also find animations demonstrating realistic redshift-space distortions at [my outreach page](outreach).
 
 I am also known as Mykhailo Rashkovetskyi (officially, Ukrainian) and Mikhail Mikhailovich Rashkovetskiy (Russian).
 
