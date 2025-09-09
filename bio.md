@@ -18,7 +18,9 @@ In 2015-2016 I was also working with Valeriy Slobodyanin on organization of Russ
 In 2016 I went to a summer practice at the Special Astrophysical Observatory in Nizhniy Arkhyz, Russia.
 Then I attended the ["International school of particles, fields and strings" 2017](https://mf.hse.ru/en/announcements/201862238.html) in Moscow, [“International school of subnuclear physics” 2017](http://www.emfcsc.infn.it/issp2017/) in Erice, Italy, “School of modern astrophysics – 2017” in Dolgoprudny, Russia, and the [international conference “Physics of neutron starts – 2017” in Saint Petersburg, Russia](http://www.ioffe.ru/astro/NS2017/) presenting a poster.
 
-In October 2017, I repatriated to Israel and received cure from lymphoma. Then I learned Hebrew in less than a year to continue my studies at [Tel Aviv University](https://english.tau.ac.il). In July 2019, I was at [15th International School of Modern Astrophysics](https://www.astrosoma.org/15th-school), which solidified my wish to do research in cosmology. I earned a B.Sc. in Physics in August 2020.
+In October 2017, I repatriated to Israel and received cure from lymphoma. Then I learned Hebrew in less than a year to continue my studies at [Tel Aviv University](https://english.tau.ac.il).
+In July 2019, I was at [the 15th International School of Modern Astrophysics](https://www.astrosoma.org/15th-school), which solidified my decision to do research in cosmology.
+I earned a B.Sc. in Physics in August 2020.
 
 In March 2020, I was on a very exciting visit to [Astronomy departments of Harvard](https://astronomy.fas.harvard.edu) and [Columbia University](https://www.astro.columbia.edu/) as a prospective graduate (PhD) student, just before travels were suspended due to COVID-19.
 I stayed in Israel until the end of my first year of graduate school at [Center for Astrophysics \| Harvard & Smithsonian](https://cfa.harvard.edu), studying and working on my first cosmology research project remotely.
