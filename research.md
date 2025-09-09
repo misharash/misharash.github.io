@@ -25,7 +25,7 @@ My PhD thesis:
 
 ## Research projects
 
-### Selection/weighting of spectroscopic (DESI) galaxies based on thermal Sunyaev-Zeldovich map
+### Clustering of spectroscopic (DESI) galaxies split by thermal Sunyaev-Zeldovich effect
 
 (Prof. Daniel Eistenstein)
 
@@ -106,7 +106,7 @@ My PhD thesis:
 
 **Publication**: **Michael Rashkovetskyi**, Julian B. Muñoz, Daniel J. Eisenstein, and Cora Dvorkin, 2021. [Small-scale clumping at recombination and the Hubble tension. Physical Review D 104](https://ui.adsabs.harvard.edu/abs/2021PhRvD.104j3517R).
 
-### The dynamics of highly magnetized jets propagating in the medium
+### Dynamics of highly magnetized jets propagating in a medium
 
 (Dr. Omer Bromberg, Prof. Alexander Tchekhovskoy)
 
