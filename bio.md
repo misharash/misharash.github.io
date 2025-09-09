@@ -25,3 +25,4 @@ I stayed in Israel until the end of my first year of graduate school at [Center 
 In August 2021, I moved to Cambridge, MA.
 
 In the Spring of 2022 I joined the [Dark Energy Spectroscopic Instrument (DESI)](https://desi.lbl.gov/) collaboration to work on covariance matrices for baryon acoustic oscillation analyses.
+In the end of July 2025, I moved to Columbus, OH to start a job as a [Center for Cosmology and Astroparticle Physics (CCAPP)](https://ccapp.osu.edu) Postdoctoral Fellow.
