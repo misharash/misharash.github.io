@@ -11,7 +11,7 @@ I am a [Center for Cosmology and AstroParticle Physics (CCAPP)](https://ccapp.os
 I am currently working on the splitting of [the Dark Energy Spectroscopic Instrument (DESI)](https://desi.lbl.gov) galaxies based on a thermal Sunyaev-Zeldovich map to extract more information from galaxy clustering ([link for more details](research#clustering-of-spectroscopic-desi-galaxies-split-by-thermal-sunyaev-zeldovich-effect)).
 
 I defended my PhD in May 2025 at [Center for Astrophysics \| Harvard & Smithsonian](https://cfa.harvard.edu) with [prof. Daniel Eisenstein](https://scholar.harvard.edu/deisenstein).
-I have developed [the covariance matrix pipeline]((research#semi-analytical-covariance-matrices-for-desi-2-point-correlation-functions)) for 2-point correlation function for [DESI](https://desi.lbl.gov) 2024 (DR1) and DR2 baryon acoustic oscillations measurements.
+I have developed [the covariance matrix pipeline](research#semi-analytical-covariance-matrices-for-desi-2-point-correlation-functions) for 2-point correlation function for [DESI](https://desi.lbl.gov) 2024 (DR1) and DR2 baryon acoustic oscillations measurements.
 Earlier, I conducted [a follow-up study of small-scale baryon inhomogeneities at recombination time as a possible relief of Hubble tension](research#inhomogeneous-recombination-relieving-hubble-tension).
 
 Before this I earned a B.Sc. degree in Physics in August 2020 from [Tel Aviv University](https://english.tau.ac.il), where I worked with [Dr. Omer Bromberg](https://physics.tau.ac.il/profile/omerbr) on [relativistic magnetohydrodynamic simulations of highly magnetized astrophysical jets propagating in a medium](research#dynamics-of-highly-magnetized-jets-propagating-in-a-medium).
