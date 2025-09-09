@@ -10,7 +10,7 @@ is_contact: true
 
 ## Address
 
-> Ofc M2018
+> Ofc M2031
 >
 > OSU Center for Cosmology and AstroParticle Physics (CCAPP)
 >
