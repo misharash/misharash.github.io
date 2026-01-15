@@ -21,7 +21,7 @@ For a brief list of publications, see my
 
 My PhD thesis:
 * [public talk on YouTube](https://www.youtube.com/live/fDrcQdFJJ0U);
-* [dissertation PDF](files/Dissertation_Rashkovetskyi_2025.pdf) and [LaTeX source code](https://github.com/misharash/thesis).
+* [unofficial dissertation PDF](files/Dissertation_Rashkovetskyi_2025.pdf) and [LaTeX source code](https://github.com/misharash/thesis); [official PDF is also available in the Harvard repository](https://dash.harvard.edu/entities/publication/1b94ef74-70e4-448a-87ff-fb9223debdb2).
 
 ## Research projects
 
