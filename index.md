@@ -22,8 +22,9 @@ Another field of my interest are principles of quantum theory.
 See the dedicated pages for more details on [research experience](research) or [biography](bio).
 You can also find animations demonstrating realistic redshift-space distortions at [my outreach page](outreach).
 
-I am also known as Mykhailo Rashkovetskyi /mᵻˈxɑɪ̯lo mᵻˈxɑɪ̯lovᵻt͡ɕ rɐʂkəˈvɛt͡sʲkᵻɪ̯/ (officially, Ukrainian) and Mikhail Mikhailovich Rashkovetskiy /mʲɪxɐˈiɫ mʲɪˈxaɪ̯ɫəvʲɪt͡ɕ rɐʂkəˈvʲet͡skʲɪɪ̯/ (Russian), or Rashkovetsky /rəʃkəˈvet͡skɪ/.
-Misha /ˈmʲiʂə/ (or /ˈmɪʃə/) is a short name/nickname.
+Misha /ˈmʲiʂə/ (or /ˈmɪʃə/) is my short name/nickname.
+My family name spelling, Rashkovetskyi, can be confusing, but it should sound like /rəʃkəˈvet͡skɪj/.
+I am also known as Mykhailo Rashkovetskyi /mɪˈxɑɪ̯lo mɪˈxɑɪ̯lovɪt͡ɕ rɐʃkoˈʋɛt͡sʲkej/ (officially, Ukrainian) and Mikhail Mikhailovich Rashkovetskiy /mʲɪxɐˈiɫ mʲɪˈxaɪ̯ɫəvʲɪt͡ɕ rɐʂkəˈvʲet͡skʲɪj/ (Russian).
 
 ## Related researchers
 
