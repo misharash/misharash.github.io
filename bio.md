@@ -5,9 +5,9 @@ layout: default
 
 ## Biography
 
-I was born in Odessa, Ukraine in 1998.
+I was born in Odesa, Ukraine in 1998.
 
-I studied in Physics class of [Richelieu Lyceum](http://rl.odessa.ua/index.php/uk/) there in 2010-2015 (graduated with gold medal).
+I studied in Physics class of [Richelieu Lyceum](http://rl.odessa.ua/index.php/en/) there in 2010-2015 (graduated with gold medal).
 I've actively participated in Ukrainian Young Physicsts Tournament and olympiads in physics, mathematics, astronomy and computer science.
 My highest achievements then were medals at International Physics Olympiad in 2014 (Astana, silver) and 2015 (Mumbai, bronze).
 
