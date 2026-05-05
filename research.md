@@ -52,7 +52,7 @@ My PhD thesis:
 
 **Open source**: [further development version of RascalC (library)](https://github.com/misharash/RascalC), [scripts including the DESI covariance pipeline](https://github.com/cosmodesi/RascalC-scripts)
 
-**Talks**:
+**Available talks**:
 
 * [Semi-analytic covariance matrices for 2PCF of DESI galaxies (ITC Luncheon, YouTube recording)](https://www.youtube.com/live/QvwUpWEW9hk?t=3354s)
 * [First Detection of the BAO Signal from Early DESI Data (Cosmology from Home 2023, on YouTube)](https://www.youtube.com/watch?v=_r7kNNDtaPw)
