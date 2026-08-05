@@ -63,12 +63,15 @@ My PhD thesis:
 * **Michael Rashkovetskyi**, Daniel Forero-Sánchez, Arnaud de Mattia, Daniel J. Eisenstein, Nikhil Padmanabhan, Hee-Jong Seo, Ashley J. Ross, et al., 2025. [Semi-analytical covariance matrices for two-point correlation function for DESI 2024 data. Journal of Cosmology and Astroparticle Physics 2025](https://ui.adsabs.harvard.edu/abs/2025JCAP...01..145R).
 * **Michael Rashkovetskyi**, Daniel J. Eisenstein, et al., 2023. [Validation of semi-analytical, semi-empirical covariance matrices for two-point correlation function for early DESI data. Monthly Notices of the Royal Astronomical Society 524](https://ui.adsabs.harvard.edu/abs/2023MNRAS.524.3894R).
 
-**Selected contributions**:
+**Selected first-tier author publications**:
 
 * Jeongin Moon, David Valcin, **Michael Rashkovetskyi**, Christoph Saulder, et al., 2023. [First detection of the BAO signal from early DESI data. Monthly Notices of the Royal Astronomical Society 525](https://ui.adsabs.harvard.edu/abs/2023MNRAS.525.5406M).
 * Daniel Forero-Sánchez, **Michael Rashkovetskyi**, Otávio Alves, et al., 2025. [Analytical and EZmock covariance validation for the DESI 2024 results. Journal of Cosmology and Astroparticle Physics 2025](https://ui.adsabs.harvard.edu/abs/2025JCAP...04..055F).
 * David Valcin, **Michael Rashkovetskyi**, Hee-Jong Seo, Florian Beutler, Patrick McDonald, Arnaud de Mattia, Alberto J. Rosado-Marín, Ashley J. Ross, Nikhil Padmanabhan, et al., 2026. [Combined tracer analysis for DESI 2024 BAO. Journal of Cosmology and Astroparticle Physics 2026](https://ui.adsabs.harvard.edu/abs/2026JCAP...04..058V).
 * Uendert Andrade, Enrique Paillas, Juan Mena-Fernández, Qinxun Li, Ashley J. Ross, Seshadri Nadathur, **Michael Rashkovetskyi**, Alejandro Pérez-Fernández, Hee-Jong Seo, Nick Sanders, Otávio Alves, Xinyi Chen, Nicola Deiosso, Arnaud de Mattia, Martin White, et al., 2025. [Validation of the DESI DR2 measurements of baryon acoustic oscillations from galaxies and quasars. Physical Review D 112](https://ui.adsabs.harvard.edu/abs/2025PhRvD.112h3512A).
+
+**Selected collaboration publications**:
+
 * DESI Collaboration, et al., 2025. [DESI DR2 results. II. Measurements of baryon acoustic oscillations and cosmological constraints. Physical Review D 112](https://ui.adsabs.harvard.edu/abs/2025PhRvD.112h3515A).
 * DESI Collaboration, et al., 2025. [DESI 2024 III: baryon acoustic oscillations from galaxies and quasars. Journal of Cosmology and Astroparticle Physics 2025](https://ui.adsabs.harvard.edu/abs/2025JCAP...04..012A).
 * DESI Collaboration, et al., 2025. [DESI 2024 II: sample definitions, characteristics, and two-point clustering statistics. Journal of Cosmology and Astroparticle Physics 2025](https://ui.adsabs.harvard.edu/abs/2025JCAP...07..017A).
